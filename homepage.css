@@ -1,0 +1,79 @@
+header{
+
+
+	height: 110px;
+	width: 100%;
+	background-color: mediumspringgreen;
+	padding-top: 0px;
+	border-bottom:  black 5px solid;
+
+
+}
+
+header p{
+
+	font-size:35px;
+	color: white;
+	float: left;
+
+	margin-top: 25px;
+	font-weight: bold;
+	font-family: verdana;
+
+}
+
+body{ 
+
+	background-image: url(lords.jpg) ;
+	background-repeat: no-repeat;
+	background-size: 1366px 780px;
+	width: 100%;
+	font: 15px/1.5 arial,helvetica,sans-serif;
+	position: relative;
+	background-color: gray;
+	
+
+
+}
+
+#button1 button:hover{
+	background-color: pink;
+	font-size: 17px;
+	color: black;
+}
+
+#button1 button{
+	background-color: lightgreen;
+	margin-left:0px;
+	height: 50px;
+	width: 221px;
+	border: silver 3px solid;
+	
+	color: white;
+	font-size: 15px;
+	font-weight: bold;
+
+
+
+}
+
+.marqueedtext{
+	font-size: 30px;
+	color: pink;
+
+}
+
+li {
+	color: red;
+	font-size: 25px;
+	
+}
+footer{
+	background-color: black;
+	color: white;
+	font-size: 13px;
+	
+	margin-top: 110px;
+	width: 38%;
+	height: 25px;
+}

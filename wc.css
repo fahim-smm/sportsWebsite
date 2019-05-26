@@ -1,0 +1,23 @@
+body{
+	background-image: url(fixture.png);
+	background-repeat: no-repeat;
+	background-size: 1366px 770px;
+	font: 15px/1.5 arial,helvetica,sans-serif;
+	position: relative;
+	background-color: gray;
+
+}
+button{
+	background: none;
+	outline:none;
+	font-size: 20px;
+	color: white;
+}
+i{
+	color: orange;
+}
+
+button:hover{
+	color: red;
+	font-size: 21px;
+}

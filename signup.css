@@ -1,0 +1,21 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background-image: url(ball.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.signupform{
+	width:400px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	color: white;
+	font-size: 40px;
+}
+.signupform input[type="number"]{
+	width: 50px;
+}
